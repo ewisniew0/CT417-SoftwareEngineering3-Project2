@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccafacaf-7d30-4b66-a604-1014e669734c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="ccafacaf-7d30-4b66-a604-1014e669734c" name="Changes" comment="Added jitpack dependency">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/assignment1package/project2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assignment1package/project2/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +61,16 @@
       <updated>1665653895295</updated>
       <workItem from="1665653897280" duration="6067000" />
       <workItem from="1665754220629" duration="2216000" />
-      <workItem from="1665756626002" duration="562000" />
+      <workItem from="1665756626002" duration="1537000" />
     </task>
+    <task id="LOCAL-00001" summary="Added jitpack dependency">
+      <created>1665757232133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665757232133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added jitpack dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added jitpack dependency" />
   </component>
 </project>

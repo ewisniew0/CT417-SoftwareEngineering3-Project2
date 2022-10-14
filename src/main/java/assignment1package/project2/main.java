@@ -18,6 +18,7 @@ public class main {
             new module("Cryptography", 200, student_array, LocalDate.of(2000, 12, 31), LocalDate.of(2000, 12, 31), lecturer.getModules_teaching(), lecturer),
     };
 
+    course_program course = new course_program("Computer Science & IT", module_array, student_array, new org.joda.time.DateTime());
 
 
 
