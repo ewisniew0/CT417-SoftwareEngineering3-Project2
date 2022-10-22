@@ -13,8 +13,8 @@ repositories {
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.9.0'
-    implementation 'com.github.ewisniew0:CT417-SoftwareEngineering3:main-SNAPSHOT'
-
+    implementation 'com.github.ewisniew0:CT417-SoftwareEngineering3:461fb014d91176c05a380f8c306c0a220a9053ef'
+    implementation group: 'org.terasoluna.gfw', name: 'terasoluna-gfw-jodatime', version: '5.7.1.RELEASE'
 }
 
 test {

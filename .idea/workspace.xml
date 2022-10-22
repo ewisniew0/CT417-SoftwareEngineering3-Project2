@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccafacaf-7d30-4b66-a604-1014e669734c" name="Changes" comment="Added jitpack dependency">
+    <list default="true" id="ccafacaf-7d30-4b66-a604-1014e669734c" name="Changes" comment="added course example">
+      <change afterPath="$PROJECT_DIR$/src/test/java/assignment1package/project2/mainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/assignment1package/project2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assignment1package/project2/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -41,16 +45,33 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell E6430/.gradle/caches/modules-2/files-2.1/com.github.ewisniew0/CT417-SoftwareEngineering3/461fb014d91176c05a380f8c306c0a220a9053ef&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;7af758f5c53469d16183c681ac426ac4&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="assignment1package.project2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +82,16 @@
       <updated>1665653895295</updated>
       <workItem from="1665653897280" duration="6067000" />
       <workItem from="1665754220629" duration="2216000" />
-      <workItem from="1665756626002" duration="1537000" />
+      <workItem from="1665756626002" duration="5938000" />
+      <workItem from="1665785131396" duration="629000" />
+      <workItem from="1666008586170" duration="456000" />
+      <workItem from="1666344797828" duration="1337000" />
+      <workItem from="1666439430157" duration="2742000" />
+      <workItem from="1666442186080" duration="973000" />
+      <workItem from="1666443187024" duration="311000" />
+      <workItem from="1666443518592" duration="507000" />
+      <workItem from="1666444038076" duration="2598000" />
+      <workItem from="1666453587147" duration="1331000" />
     </task>
     <task id="LOCAL-00001" summary="Added jitpack dependency">
       <created>1665757232133</created>
@@ -70,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665757232133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added course example">
+      <created>1665758312782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665758312782</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +126,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added jitpack dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added jitpack dependency" />
+    <MESSAGE value="added course example" />
+    <option name="LAST_COMMIT_MESSAGE" value="added course example" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="module_array[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Software_Engineering_Assignment_1_Project2$main.ic" NAME="main Coverage Results" MODIFIED="1666452640065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>assignment1package.project2.*</FILTER>
+    </SUITE>
   </component>
 </project>
