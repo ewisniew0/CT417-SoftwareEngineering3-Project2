@@ -1,17 +1,20 @@
 package assignment1package.project2;
 
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
+import assignment1package.course_program;
+import org.joda.time.DateTime;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class mainTest {
 
-    @BeforeEach
-    void setUp() {
-    }
+    @Test
+    void getGetName() {
+        course_program course = new course_program("Computer Science & IT", new DateTime(2020, 8, 1, 8, 0), new DateTime(2020, 8, 1, 8, 0));
 
-    @AfterEach
-    void tearDown() {
+        String name = course.getCourse_name();
+
+        System.out.println("\nTest for getCourse_name()\n");
+        assertEquals (name, "Computer Science & IT");
     }
 }
